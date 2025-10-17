@@ -1,0 +1,8 @@
+
+YouTube Video Manager Help:
+1. List All Videos: View all saved videos
+2. Add Video: Add a new video to the list
+3. Update Video: Modify an existing video's details
+4. Delete Video: Remove a video from the list
+5. Help: Display this help information
+6. Exit: Close the application

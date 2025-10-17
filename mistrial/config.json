@@ -1,0 +1,6 @@
+{
+    "filename": "youtube.txt",
+    "banner_message": "YouTube Video Manager",
+    "duration_format": "MM:SS",
+    "help_file": "help.txt"
+}
